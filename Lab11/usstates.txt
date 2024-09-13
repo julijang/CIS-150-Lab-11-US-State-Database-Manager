@@ -1,0 +1,50 @@
+AL,Alabama,Montgomery,4859000,1819,7
+AK,Alaska,Juneau,739000,1959,1
+AZ,Arizona,Phoenix,6829000,1912,9
+AR,Arkansas,Little Rock,2979000,1836,4
+CA,California,Sacramento,39145000,1850,53
+CO,Colorado,Denver,5457000,1876,7
+CT,Connecticut,Hartford,3591000,1788,5
+DE,Delaware,Dover,946000,1787,1
+FL,Florida,Tallahassee,20272000,1845,27
+GA,Georgia,Atlanta,10215000,1788,14
+HI,Hawaii,Honolulu,1432000,1959,2
+ID,Idaho,Boise,1655000,1890,2
+IL,Illinois,Springfield,12860000,1818,18
+IN,Indiana,Indianapolis,6620000,1816,9
+IA,Iowa,Des Moines,3124000,1846,4
+KS,Kansas,Topeka,2912000,1861,4
+KY,Kentucky,Frankfort,4426000,1792,6
+LA,Louisiana,Baton Rouge,4671000,1812,6
+ME,Maine,Augusta,1330000,1820,2
+MD,Maryland,Annapolis,6007000,1788,8
+MA,Massachusetts,Boston,6795000,1788,9
+MI,Michigan,Lansing,9923000,1837,14
+MN,Minnesota,St. Paul,5490000,1858,8
+MS,Mississippi,Jackson,2993000,1817,4
+MO,Missouri,Jefferson City,6084000,1821,8
+MT,Montana,Helena,1033000,1889,1
+NE,Nebraska,Lincoln,1897000,1867,3
+NV,Nevada,Carson City,2891000,1864,4
+NH,New Hampshire,Concord,1331000,1788,2
+NJ,New Jersey,Trenton,8959000,1787,12
+NM,New Mexico,Santa Fe,2086000,1912,3
+NY,New York,Albany,19796000,1788,27
+NC,North Carolina,Raleigh,10043000,1789,13
+ND,North Dakota,Bismarck,757000,1889,1
+OH,Ohio,Columbus,11614000,1803,16
+OK,Oklahoma,Oklahoma City,3912000,1907,5
+OR,Oregon,Salem,4029000,1859,5
+PA,Pennsylvania,Harrisburg,12803000,1787,18
+RI,Rhode Island,Providence,1057000,1790,2
+SC,South Carolina,Columbia,4897000,1788,7
+SD,South Dakota,Pierre,859000,1889,1
+TN,Tennessee,Nashville,6601000,1796,9
+TX,Texas,Austin,27470000,1845,36
+UT,Utah,Salt Lake City,2996000,1896,4
+VT,Vermont,Montpelier,627000,1791,1
+VA,Virginia,Richmond,8383000,1788,11
+WA,Washington,Olympia,7171000,1889,10
+WV,West Virginia,Charleston,1845000,1863,3
+WI,Wisconsin,Madison,5772000,1848,8
+WY,Wyoming,Cheyenne,587000,1890,1
